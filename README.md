@@ -1,2 +1,2 @@
-# LCG_PseudorandomGnenerator
-A pseudorandom generator based on linear congruential method.
+<h1 style="text-align: center">Генератор псевдослучайных чисел</h1>
+<p>Генератор псевдослучайных чисел, основанный на линейном конгруэнтном методе</p>
